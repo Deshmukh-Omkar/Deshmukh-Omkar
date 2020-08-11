@@ -19,8 +19,7 @@ Full Stack Web Developer🌐 (in progress)|| Cyber Security Enthusiast || Quora 
 - Trying to explain people, *Quarantine is my bae since childhood!*
 (**HEY! I'm not boring!**)
 
-#### Skills
-##### Programming Languages
+#### Programming Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -28,19 +27,19 @@ Full Stack Web Developer🌐 (in progress)|| Cyber Security Enthusiast || Quora 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-##### Tools & Frameworks
+#### Tools & Frameworks
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://www.pikpng.com/pngl/b/247-2470992_kali-linux-logo-backtrack-clipart.png"></code>
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png"></code>
 
-##### Creatives
+#### Creatives
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180328/xde/kisspng-final-cut-pro-x-computer-icons-apple-cut-5abc5e86daa3d9.9193591315222944068956.jpg"></code>
 <code><img height="20" src="https://www.clipartkey.com/mpngs/m/242-2427298_audacity-logo-png.png"></code>
 
 <!--GitHub Stats-->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deshmukh-Omkar&layout=compact)
 
 [Want to use this plugin?](https://github.com/anuraghazra/github-readme-stats)
 
