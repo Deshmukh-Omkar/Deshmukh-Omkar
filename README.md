@@ -40,9 +40,7 @@ Full Stack Web Developer🌐 (in progress)|| Cyber Security Enthusiast || Quora 
 <code><img height="20" src="https://www.clipartkey.com/mpngs/m/242-2427298_audacity-logo-png.png"></code>
 
 <!--GitHub Stats-->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark) <p>&nbsp;</p> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [Want to use this plugin?](https://github.com/anuraghazra/github-readme-stats)
 
