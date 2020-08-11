@@ -16,7 +16,7 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 - Video Editing (Going beyond Basic Transitions)
 - Trying to explain people, *Quarantine is my bae since childhood!* (**HEY! I'm not boring!**)
 
-<img align="right" alt="GIF" src="https://tenor.com/0aTA.gif" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/45fa006df254a8e567151c27ade0b31e/tenor.gif?itemid=12395872" />
 
 #### Skills
 ##### Programming Languages
