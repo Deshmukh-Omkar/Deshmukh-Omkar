@@ -16,6 +16,7 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 - Video Editing (Going beyond Basic Transitions)
 - Trying to explain people, *Quarantine is my bae since childhood!* (**HEY! I'm not boring!**)
 
+<img align="right" src="https://tenor.com/0aTA.gif">
 #### Skills
 ##### Programming Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -37,9 +38,7 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 <code><img height="20" src="https://www.clipartkey.com/mpngs/m/242-2427298_audacity-logo-png.png"></code>
 
 <!--GitHub Stats-->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark)]
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [Want to use this plugin?](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,19 +50,3 @@ If, you have reached the end, it seems you are interested to Reach Out to me! So
 <a href="mailto:omkar.education2000@gmail.com"><img height="30" src="https://www.freepnglogos.com/uploads/e-mail--logo-png-2.png"></a>
 <a href="https://www.instagram.com/_omkar.d_/"><img height="30" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png"></a>
 <a href="https://www.quora.com/profile/Omkar-Deshmukh-10"><img height="30" src="https://banner2.cleanpng.com/20180320/iee/kisspng-area-text-symbol-brand-computer-wallpaper-quora-5ab0b982e2b621.3292421215215312669286.jpg"></a>
-
-
-<!--
-**Deshmukh-Omkar/Deshmukh-Omkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
