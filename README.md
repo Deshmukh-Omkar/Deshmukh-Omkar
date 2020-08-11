@@ -1,22 +1,23 @@
-# Omkar Deshmukh
+# Omkar Deshmukh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" />
 
-### Namaste!
+### Namaste! 🙏🏽
 
 > The greater the challenge, the greater your character development once you overcome it.
 
 I'm a 3rd year undergraduate student, studying B.Tech. Computer Science & Engineering at VIT Bhopal. I'm a curious mind, with an optimistic, open-minded approach towards all the opportunities, with the goal of adding value to the society and myself in return.
 
-Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writer
+Full Stack Web Developer🌐 (in progress)|| Cyber Security Enthusiast || Quora Writer
+
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/45fa006df254a8e567151c27ade0b31e/tenor.gif?itemid=12395872" />
 
 #### Stuff I'm working on/learning about:
 - MERN Stack
 - Open Source Contribution
 - Proof of Concept Projects
-- Content Creation on LinkedIn (Shameless plug: Let's Connect)
-- Video Editing (Going beyond Basic Transitions)
-- Trying to explain people, *Quarantine is my bae since childhood!* (**HEY! I'm not boring!**)
-
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/45fa006df254a8e567151c27ade0b31e/tenor.gif?itemid=12395872" />
+- Content Creation on LinkedIn (Shameless plug: **Let's Connect**)
+- Video Editing (Going beyond Basic Transitions) 
+- Trying to explain people, *Quarantine is my bae since childhood!*
+(**HEY! I'm not boring!**)
 
 #### Skills
 ##### Programming Languages
