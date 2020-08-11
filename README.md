@@ -37,8 +37,19 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 <code><img height="20" src="https://www.clipartkey.com/mpngs/m/242-2427298_audacity-logo-png.png"></code>
 
 <!--GitHub Stats-->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--End notes-->
+If, you have reached the end, it seems you are interested to Reach Out to me! So, what are you waiting for?
+
 <!-- Social Media Handles -->
+<a href="https://www.linkedin.com/in/omkar-d-deshmukh"><img height="30" src="https://www.pngfind.com/pngs/m/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent.png"></a>
+<a href="mailto:omkar.education2000@gmail.com"><img height="30" src="https://banner2.cleanpng.com/20180429/qde/kisspng-email-message-helbrecht-optics-computer-icons-5ae67b1ee84ec8.3564191915250542389515.jpg"></a>
+<a href="https://www.instagram.com/_omkar.d_/"><img height="30" src="https://i.pinimg.com/originals/11/2d/f6/112df6adb5d802cc693e99137a0f4381.png"></a>
+<a href="https://www.quora.com/profile/Omkar-Deshmukh-10"><img height="30" src="https://banner2.cleanpng.com/20180320/iee/kisspng-area-text-symbol-brand-computer-wallpaper-quora-5ab0b982e2b621.3292421215215312669286.jpg"></a>
+
 
 <!--
 **Deshmukh-Omkar/Deshmukh-Omkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
