@@ -16,7 +16,7 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 - Video Editing (Going beyond Basic Transitions)
 - Trying to explain people, *Quarantine is my bae since childhood!* (**HEY! I'm not boring!**)
 
-<img align="right" src="https://tenor.com/0aTA.gif">
+<img align="right" alt="GIF" src="https://tenor.com/0aTA.gif" />
 #### Skills
 ##### Programming Languages
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -38,7 +38,7 @@ Full Stack Web Developer (in progress)|| Cyber Security Enthusiast || Quora Writ
 <code><img height="20" src="https://www.clipartkey.com/mpngs/m/242-2427298_audacity-logo-png.png"></code>
 
 <!--GitHub Stats-->
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deshmukh-Omkar&show_icons=true&theme=vue-dark)         ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [Want to use this plugin?](https://github.com/anuraghazra/github-readme-stats)
 
