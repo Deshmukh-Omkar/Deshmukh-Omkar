@@ -4,7 +4,7 @@
 
 > The greater the challenge, the greater your character development once you overcome it.
 
-I'm a 3rd year undergraduate student, studying B.Tech. Computer Science & Engineering at VIT Bhopal. I'm a curious mind, with an optimistic, open-minded approach towards all the opportunities, with the goal of adding value to the society and myself in return.
+I'm a 4th year undergraduate student, studying B.Tech. Computer Science & Engineering at VIT Bhopal. I'm a curious mind, with an optimistic, open-minded approach towards all the opportunities, with the goal of adding value to the society and myself in return.
 
 Full Stack Web Developer🌐 (in progress)|| Cyber Security Enthusiast || Quora Writer
 
